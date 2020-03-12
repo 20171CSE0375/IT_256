@@ -1,0 +1,16 @@
+h1{
+text-align:center
+}
+p{
+color:blue
+}
+ul li i{color:blue;}
+
+div > u {background-color: yellow;
+}
+#example:hover {
+background-color:cyan
+}
+
+a.highlight:hover{
+color:red;
